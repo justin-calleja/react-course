@@ -1,1 +1,1 @@
-Contains solution at end of exercise-2.
+Contains solution at end of component-lifecycle-part-1.
